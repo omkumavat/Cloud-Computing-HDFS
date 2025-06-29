@@ -72,7 +72,7 @@ Average Marks : 51.6
 
 
 ### 🧾 Files:
-- `MarksMapper.java` – emits (student, marks)
+- `MarksMapper.java` – emits (student, marks) 
 - `MarksReducer.java` – calculates average of student marks
 - `AverageMarksDriver.java` – configures and runs the job
 
